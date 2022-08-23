@@ -1,1 +1,1 @@
-Sinatra app for Todo webapp
+Todo Tracker application built with Sinatra and backed with PostgreSQL database, viewable at https://jesschang77-rb185-todos-app.herokuapp.com/lists
